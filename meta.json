@@ -1,16 +1,32 @@
 {
  "updated": "2026-11-25",
- "run": 3,
+ "run": 4,
  "new": [],
- "new_count": 3,
+ "new_count": 25,
  "changed": [
   {
-   "name": "Analyse de decks",
-   "what": "Nouvel onglet : déposez un deck PDF, Claude le note avec vos critères"
+   "name": "Thèse élargie",
+   "what": "DeepTech, Cybersécurité, Logiciel & SaaS : 25 startups ajoutées, 4 reclassées en cyber"
   },
   {
-   "name": "Licornes Society",
-   "what": "Ajoutée aux sources : levées françaises de la semaine"
+   "name": "Remanence",
+   "what": "Seed de 26 M€ (EQT Ventures, FirstMark), 23 nov. 2026"
+  },
+  {
+   "name": "HEAL.DEV",
+   "what": "Seed de 4 M€ (Mango Capital, Alven), 16 nov. 2026"
+  },
+  {
+   "name": "Qluster",
+   "what": "Pre-seed de 4,7 M€ (Quantonation), 17 nov. 2026"
+  },
+  {
+   "name": "Tripica",
+   "what": "Levée de 12 M€ (TiLT Capital), 16 nov. 2026"
+  },
+  {
+   "name": "LinkedIn",
+   "what": "Liens limités aux profils vérifiés de fondateurs, CTO ou Head of"
   },
   {
    "name": "STRYX AI",
@@ -25,13 +41,17 @@
    "what": "Levée de 30 M€ (Norrsken VC, Singular, Serena…), 16 nov. 2026"
   },
   {
-   "name": "Stimuli Technology",
-   "what": "Levée de 7 M€ (Seventure Partners), 23 nov. 2026"
-  },
-  {
    "name": "Resilience",
    "what": "Levée de 48 M€ (PSG Equity), 16 nov. 2026"
   }
  ],
- "note": "Ajout de l'analyse de decks et de Licornes Society comme source de levées françaises."
+ "note": "Thèse élargie à la DeepTech, la cybersécurité et le logiciel & SaaS. LinkedIn : seuls les profils vérifiés de fondateurs, CTO ou Head of sont affichés.",
+ "sectors": [
+  "Défense",
+  "Robotique",
+  "Santé",
+  "DeepTech",
+  "Cybersécurité",
+  "Logiciel & SaaS"
+ ]
 }
