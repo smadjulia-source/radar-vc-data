@@ -1,0 +1,37 @@
+{
+ "updated": "2026-11-25",
+ "run": 3,
+ "new": [],
+ "new_count": 3,
+ "changed": [
+  {
+   "name": "Analyse de decks",
+   "what": "Nouvel onglet : déposez un deck PDF, Claude le note avec vos critères"
+  },
+  {
+   "name": "Licornes Society",
+   "what": "Ajoutée aux sources : levées françaises de la semaine"
+  },
+  {
+   "name": "STRYX AI",
+   "what": "Seed de 7,7 M€ (Impala), 23 nov. 2026"
+  },
+  {
+   "name": "Physicl",
+   "what": "Levée de 9 M€ (Inovia Capital, US Venture Partners), 16 nov. 2026"
+  },
+  {
+   "name": "Orakl Oncology",
+   "what": "Levée de 30 M€ (Norrsken VC, Singular, Serena…), 16 nov. 2026"
+  },
+  {
+   "name": "Stimuli Technology",
+   "what": "Levée de 7 M€ (Seventure Partners), 23 nov. 2026"
+  },
+  {
+   "name": "Resilience",
+   "what": "Levée de 48 M€ (PSG Equity), 16 nov. 2026"
+  }
+ ],
+ "note": "Ajout de l'analyse de decks et de Licornes Society comme source de levées françaises."
+}
